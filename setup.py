@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
 	long_description = fh.read()
 
 setuptools.setup(
-	name="emocon",
+	name="Emocon",
 	version="0.0.1",
 	author="Ravi Shankar",
 	author_email="rshanka3@jhu.edu",
