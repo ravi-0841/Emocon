@@ -1,0 +1,2 @@
+model_checkpoint_path: "wavenet-neu-ang-energy_3.ckpt"
+all_model_checkpoint_paths: "wavenet-neu-ang-energy_3.ckpt"
